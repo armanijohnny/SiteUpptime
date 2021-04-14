@@ -13,7 +13,7 @@
     "time": 1350,
     "timeDay": 1266,
     "timeWeek": 1027,
-    "timeMonth": 1384,
+    "timeMonth": 1395,
     "timeYear": 1350,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 3578,
     "timeDay": 5313,
     "timeWeek": 3129,
-    "timeMonth": 3707,
+    "timeMonth": 3716,
     "timeYear": 3578,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://www.myloanzone.com/",
     "icon": "https://favicons.githubusercontent.com/www.myloanzone.com",
     "slug": "mlz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 537,
-    "timeWeek": 507,
-    "timeMonth": 417,
-    "timeYear": 395,
+    "time": 404,
+    "timeDay": 631,
+    "timeWeek": 535,
+    "timeMonth": 427,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   }
 ]
