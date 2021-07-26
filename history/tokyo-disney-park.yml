@@ -1,7 +1,7 @@
 url: https://tokyodisneypark.com/
-status: down
-code: 502
-responseTime: 345
-lastUpdated: 2021-07-26T15:58:26.850Z
+status: up
+code: 200
+responseTime: 4718
+lastUpdated: 2021-07-26T16:56:05.707Z
 startTime: Wed Mar 10 2021 19:44:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
