@@ -4,7 +4,7 @@
     "url": "http://www.dongalabs.com/",
     "icon": "https://favicons.githubusercontent.com/www.dongalabs.com",
     "slug": "donga-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1127,
     "timeDay": 1079,
-    "timeWeek": 1012,
+    "timeWeek": 1027,
     "timeMonth": 1019,
     "timeYear": 1127,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3070,
     "timeDay": 2845,
-    "timeWeek": 2023,
+    "timeWeek": 1901,
     "timeMonth": 2807,
     "timeYear": 3070,
     "dailyMinutesDown": {}
