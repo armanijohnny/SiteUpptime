@@ -22,7 +22,7 @@
     "url": "https://tokyodisneypark.com/",
     "icon": "https://favicons.githubusercontent.com/tokyodisneypark.com",
     "slug": "tokyo-disney-park",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 3055,
     "timeDay": 2715,
     "timeWeek": 1742,
-    "timeMonth": 2759,
+    "timeMonth": 2710,
     "timeYear": 3055,
     "dailyMinutesDown": {}
   },
